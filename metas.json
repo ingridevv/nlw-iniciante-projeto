@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Correr 5km todos os dias",
+    "checked": true
+  },
+  {
+    "value": "Ler 10 páginas por dia",
+    "checked": false
+  },
+  {
+    "value": "Tomar 2L de água por dia",
+    "checked": true
+  }
+]
