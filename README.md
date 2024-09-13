@@ -1,4 +1,4 @@
-![wallpaper nlw javascript](Wallpaper1400x900.png).
+![wallpaper nlw javascript](Wallpaper - 1400x900.png).
 
 # NLW Pocket: JavaScript
 
