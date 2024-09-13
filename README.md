@@ -1,4 +1,4 @@
-![wallpaper nlw javascript](Wallpaper - 1400x900.png).
+!(https://github.com/ingridhermann/nlw-iniciante-projeto/blob/main/Wallpaper%20-%201400x900.png)
 
 # NLW Pocket: JavaScript
 
