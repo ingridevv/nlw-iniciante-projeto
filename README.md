@@ -1,1 +1,6 @@
-# nlw-iniciante-projeto
+
+
+# NLW Pocket: JavaScript
+
+## Technologies
+- Javascript + Node.js
