@@ -15,12 +15,13 @@ https://github.com/user-attachments/assets/603fd516-2aa3-499b-b98e-a877f4cd10a5
 
 [PT-BR] **Desafios e Aprendizados**: Durante o processo de desenvolvimento, enfrentei desafios como aprender a lidar com funções assíncronas e promises. No entanto, aprendi lições valiosas sobre como depurar problemas no JavaScript.
 
-Esse projeto foi uma excelente oportunidade para aplicar as habilidades adquiridas durante o evento NLW Pocket, e consolidou meu entendimento sobre como construir aplicações interativas com JavaScript. Pretendo continuar melhorando este projeto, ao construir uma interface interativa e dinâmica, além de adicionar novas funcionalidades.
-
-
 [EN] **Challenges & Learnings**: Throughout the development process, I faced challenges such as learning how to handle asynchronous functions and promises]. However, I learned valuable lessons about debugging JavaScript issues.
 
-This project was a great opportunity to apply the skills learned during the NLW Pocket event, and it solidified my understanding of how to build interactive applications with JavaScript. I plan to continue improving this project by building an interactive and dynamic interface plus adding new features.
+<hr> 
+
+[PT-BR] Esse projeto foi uma excelente oportunidade para aplicar as habilidades adquiridas durante o evento NLW Pocket, e consolidou meu entendimento sobre como construir aplicações interativas com JavaScript. Pretendo continuar melhorando este projeto, ao construir uma interface interativa e dinâmica, além de adicionar novas funcionalidades.
+
+[EN] This project was a great opportunity to apply the skills learned during the NLW Pocket event, and it solidified my understanding of how to build interactive applications with JavaScript. I plan to continue improving this project by building an interactive and dynamic interface plus adding new features.
 
 
   
